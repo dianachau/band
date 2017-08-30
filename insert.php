@@ -1,5 +1,5 @@
 <?php
-  include_once('index.html')
+  include_once('index.html');
 
   // // connect to the database
   // $con = mysqli_connect('localhost','root','');
