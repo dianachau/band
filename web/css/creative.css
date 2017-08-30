@@ -114,15 +114,15 @@ body {
         background-color: transparent; }
   @media (min-width: 992px) {
     #mainNav {
-      border-color: rgba(255, 255, 255, 0.3);
+      border-color: rgba(0, 0, 0, 0.7);
       background-color: transparent; }
       #mainNav .navbar-brand {
-        color: rgba(255, 255, 255, 0.7); }
+        color: #000000; }
         #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
           color: white; }
       #mainNav .navbar-nav > li.nav-item > a.nav-link,
       #mainNav .navbar-nav > li.nav-item > a.nav-link:focus {
-        color: rgba(255, 255, 255, 0.7); }
+        color: #000000; }
         #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
         #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
           color: white; }
